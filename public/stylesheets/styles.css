@@ -1,0 +1,7 @@
+#container {
+  width: 300px;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize; }
